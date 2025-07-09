@@ -1,0 +1,17 @@
+{
+  "name": "TireCheck TPMS",
+  "supportEmail": "support@tirecheck.com",
+  "version": "1.0",
+  "items": [
+    {
+      "page": "dashboard",
+      "url": "https://camcmart33.github.io/tirecheck-tpms-addin/tirecheck-tpms.html",
+      "script": "https://camcmart33.github.io/tirecheck-tpms-addin/tirecheck-tpms.js",
+      "stylesheet": "https://camcmart33.github.io/tirecheck-tpms-addin/tirecheck-tpms.css",
+      "icon": "https://cdn-icons-png.flaticon.com/512/2972/2972557.png",
+      "menuName": {
+        "en": "TireCheck TPMS"
+      }
+    }
+  ]
+}
